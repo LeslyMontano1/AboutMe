@@ -1,8 +1,6 @@
 # AboutMe
-Lesly Montano Garcia 
-
-
-15402 W. Fondren Cir. Houston, TX 77071 | (832) 859-2371 | lgm323@lehigh.edu | www.linkedin.com/in/lesly-montano-garcia 
+Lesly Montano Garcia
+lgm323@lehigh.edu | www.linkedin.com/in/lesly-montano-garcia 
 
 
 EDUCATION
